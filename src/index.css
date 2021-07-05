@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.plantel{
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.wrapper{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  height: 200px;
+}
+
+#banco{
+  grid-column: -1;
+  grid-row: 1;
+  width:200px;
+  text-align:left;
+}
+
+.spinner{
+  width:30px;
+  height:30px;
+  border: 4px solid rgba(0, 0, 0, .1);
+  border-radius: 50%;
+  border-right-color: lightskyblue;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0%{
+    transform: rotate(0deg)
+  }
+
+  100%{
+    transform: rotate(360deg)
+  }
+}
