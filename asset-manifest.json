@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/futbol-lineup/static/css/main.ae127e02.chunk.css",
+    "main.js": "/futbol-lineup/static/js/main.5489fabd.chunk.js",
+    "main.js.map": "/futbol-lineup/static/js/main.5489fabd.chunk.js.map",
+    "runtime-main.js": "/futbol-lineup/static/js/runtime-main.c39bae50.js",
+    "runtime-main.js.map": "/futbol-lineup/static/js/runtime-main.c39bae50.js.map",
+    "static/css/2.4f6c1c39.chunk.css": "/futbol-lineup/static/css/2.4f6c1c39.chunk.css",
+    "static/js/2.72691fe8.chunk.js": "/futbol-lineup/static/js/2.72691fe8.chunk.js",
+    "static/js/2.72691fe8.chunk.js.map": "/futbol-lineup/static/js/2.72691fe8.chunk.js.map",
+    "static/js/3.59b70fc5.chunk.js": "/futbol-lineup/static/js/3.59b70fc5.chunk.js",
+    "static/js/3.59b70fc5.chunk.js.map": "/futbol-lineup/static/js/3.59b70fc5.chunk.js.map",
+    "index.html": "/futbol-lineup/index.html",
+    "static/css/2.4f6c1c39.chunk.css.map": "/futbol-lineup/static/css/2.4f6c1c39.chunk.css.map",
+    "static/css/main.ae127e02.chunk.css.map": "/futbol-lineup/static/css/main.ae127e02.chunk.css.map",
+    "static/js/2.72691fe8.chunk.js.LICENSE.txt": "/futbol-lineup/static/js/2.72691fe8.chunk.js.LICENSE.txt",
+    "static/media/cancha.css": "/futbol-lineup/static/media/field.433adbdd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c39bae50.js",
+    "static/css/2.4f6c1c39.chunk.css",
+    "static/js/2.72691fe8.chunk.js",
+    "static/css/main.ae127e02.chunk.css",
+    "static/js/main.5489fabd.chunk.js"
+  ]
+}
