@@ -1,0 +1,2 @@
+WEB: https://futbol-lineup.vercel.app
+Github: https://github.com/mlupani/futbol-lineup
